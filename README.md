@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Express.js%20-%23404D59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js">
 </p>
 
-### Databases & Backend
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 </p>
