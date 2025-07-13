@@ -34,7 +34,7 @@
 ---
 ## 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sriram_pandi?theme=light&font=baloo&extension=activity)](https://leetcode.com/sriram_pandi/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sriram_pandi?theme=dark&font=baloo&extension=activity)](https://leetcode.com/sriram_pandi/)
 
 ---
 
