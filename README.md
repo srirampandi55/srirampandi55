@@ -11,7 +11,6 @@
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 </p>
 
 ### Web Development
