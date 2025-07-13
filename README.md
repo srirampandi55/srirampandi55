@@ -25,8 +25,9 @@
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
+
 
 </div>
 
