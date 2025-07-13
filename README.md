@@ -31,6 +31,12 @@
 </div>
 
 ---
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sriram_pandi?theme=light&font=baloo&extension=activity)](https://leetcode.com/sriram_pandi/)
+
+---
+
 
 <h2><b>Let’s Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 
