@@ -14,7 +14,6 @@
 </p>
 
 ### Web Development
-### Web Development
 
 <!-- Frontend Technologies -->
 <h4>🚀 Frontend Technologies</h4>
