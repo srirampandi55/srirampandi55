@@ -44,6 +44,7 @@
 <ul>
 <li><a href="https://www.linkedin.com/in/sriram-pandi-senthilkumar-06127b259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
 <li><a href="mailto:srirampandi55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
+   <li><a href="https://srirampandiportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website"></a></li>
 </ul>
 
 ---
